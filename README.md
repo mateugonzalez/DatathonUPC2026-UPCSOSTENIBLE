@@ -25,7 +25,8 @@ $$\text{Score} = \max\Big(0,\; 0.70 \cdot \Delta\text{CO}_2(\%) + 0.30 \cdot \De
 ```text
 Datathon26MIUB/
 ├── agents/                        # Competition battery control agents
-│   ├── agent.py                   # Final submission (Score: 23.43) — fully typed & documented in English
+|   |-- comparacion_agents.ipynb.  # Comparision of the two following agents
+│   ├── agent.py                   # Final submission (Score: 23.43)
 │   ├── agent_v1.py                # Previous milestone submission (Score: 23.35)
 │   └── README.md                  # Detailed explanation of the 10-stage agent architecture
 ├── preprocessing/                 # Data cleaning and hourly aggregation pipeline
