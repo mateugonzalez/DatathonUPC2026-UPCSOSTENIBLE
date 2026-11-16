@@ -1,6 +1,6 @@
 # Datathon 2026 — Repte UPC Sostenible: Campus Battery Optimization
 
-This repository contains our solution and data engineering pipeline for the **UPC Sostenible Challenge ("Carrega la Bateria!")** at **Datathon 2026 (MIUB)**.
+This repository contains our solution and data engineering pipeline for the **UPC Sostenible Challenge ("Carrega la Bateria!")** at **Datathon 2026**.
 
 ## Problem Overview
 
